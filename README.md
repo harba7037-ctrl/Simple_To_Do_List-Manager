@@ -32,3 +32,6 @@ C Programming Language
 - Tasks are stored using an array of structures.
 - When deleting a task, the remaining tasks are shifted correctly.
 - Each function is organized in a separate folder as required.
+
+## Author:
+Alzubair Saleh
